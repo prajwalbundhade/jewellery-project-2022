@@ -133,6 +133,7 @@ h2 {
 .slider_section .detail-box .slider-link:hover {
   background-color: #d74800;
   color: #ffffff;
+  text-decoration: none;
 }
 
 .slider_section .slider_bg_box {
@@ -246,6 +247,7 @@ h2 {
 .shop_section .btn-box a:hover {
   background-color: transparent;
   color: #d74800;
+  text-decoration: none;
 }
 
 .about_section .row {
@@ -293,6 +295,7 @@ h2 {
 .about_section .detail-box a:hover {
   background-color: transparent;
   color: #d74800;
+  text-decoration: none;
 }
 
 .info_section{
